@@ -4,7 +4,7 @@
   "description": "## Group Orange Team Members - Balwinder Singh - Coti Garcia - Chris Zeigler - Max Coursey",
   "main": "server.js",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "express-session": "^1.16.2",
     "mysql2": "^1.7.0",
